@@ -1,3 +1,5 @@
+[![](https://github.com/chatch166/pytestlab/workflows/tests/badge.svg)](https://github.com/chatch166/chatch166/pytestlab/actions?query=workflow%3Atests)
+
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
